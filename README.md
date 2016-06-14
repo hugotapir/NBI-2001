@@ -1,8 +1,8 @@
-# NBI-2001
+# NBI-2010 Ecuador
 # Sintaxis para el cálculo del índice NBI desarrollado por INEC para el censo 2010
-# Fuente: http://www.ecuadorencifras.gob.ec/pobreza/ 
-# Adaptado por: Victor Torres Lopez 
-# Manual para adquisición de datos 
+# Fuente original: http://www.ecuadorencifras.gob.ec/pobreza/ 
+# Adaptado por: Victor Torres Lopez
+# Manual para adquisición de datos disponible en:
 ## https://victorhugotorreslopez.wordpress.com/2016/01/20/calculo-del-indice-de-necesidades-basicas-insatisfechas-en-ecuador-nbi/ 
 ## Publicado en Septiembre 2015 Actualizado: Enero 20.01.2016
 
